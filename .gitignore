@@ -1,0 +1,22 @@
+# Source code (private)
+/src/
+
+# Build artifacts
+/build/tmp/
+/__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+/venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
