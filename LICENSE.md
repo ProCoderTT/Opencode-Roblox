@@ -1,244 +1,289 @@
 MARK PROPRIETARY SOFTWARE LICENSE
+
 Version 1.0
+
 Copyright (c) 2026 Mark
+
 All Rights Reserved.
 
 IMPORTANT:
-THIS SOFTWARE IS LICENSED, NOT SOLD. BY DOWNLOADING, INSTALLING, COPYING, ACCESSING, EXECUTING, USING, OR DISTRIBUTING THIS SOFTWARE IN ANY FORM, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREED TO BE LEGALLY BOUND BY ALL TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT.
 
-IF YOU DO NOT AGREE TO THESE TERMS, YOU ARE NOT PERMITTED TO USE, ACCESS, STORE, MODIFY, DISTRIBUTE, OR INTERACT WITH THIS SOFTWARE IN ANY WAY.
+The Mark Software is licensed to you it is not sold. When you download, install, copy, access, execute, use or distribute the Mark Software in any way you are saying that you have read, understood and agreed to everything in this license agreement.
+
+If you do not agree to these terms you cannot use, access, store modify, distribute or interact with the Mark Software in any way.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 1. DEFINITIONS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-For the purposes of this agreement:
-
-"Software" refers to all files, source code, binaries, executables, scripts, plugins, systems, APIs, interfaces, assets, resources, documentation, networking implementations, artificial intelligence integrations, Roblox Studio integrations, local server systems, update systems, compiled releases, configuration files, development builds, and all related materials created by Mark.
-
-"Author" refers to Mark, the original creator and sole owner of the Software.
-
-"User" refers to any person, organization, group, developer, or entity accessing or using the Software.
-
-"Distribution" refers to uploading, sharing, mirroring, rehosting, reselling, reposting, transmitting, publishing, or otherwise making the Software available to others.
-
-"Reverse Engineering" includes but is not limited to decompiling, disassembling, debugging, packet inspection, runtime inspection, memory analysis, source extraction, protocol recreation, behavior cloning, deobfuscation, bypassing protections, or attempting to understand or recreate internal systems or logic.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For this agreement we need to define some things:
+
+The Mark Software refers to all the files, code and materials that Mark created.
+
+The Author is Mark, the person who made the Mark Software.
+
+The User is anyone who uses the Mark Software.
+
+Distribution means sharing, uploading or making the Mark Software available to others.
+
+Reverse Engineering means trying to figure out how the Mark Software works by decompiling, disassembling or debugging it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 2. OWNERSHIP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The Software is proprietary and confidential intellectual property owned exclusively by Mark.
-
-All ownership rights, copyrights, trademarks, design rights, trade secrets, architecture, implementations, systems, workflows, AI integrations, backend logic, networking structures, plugin systems, development concepts, and related materials remain the sole property of the Author.
-
-This license does NOT transfer ownership of the Software to the User under any circumstances.
-
-No part of the Software shall be considered open-source unless explicitly stated otherwise in writing by the Author.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Mark Software belongs to Mark. All the rights, copyrights and trademarks are Marks property.
+
+This license does not mean that Mark is giving you the Mark Software. You are just allowed to use it.
+
+No part of the Mark Software is source unless Mark says so.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 3. PERMITTED USE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The User is granted a limited, non-exclusive, non-transferable, revocable license to:
-
-- Download the Software from authorized sources
-- Execute and use officially distributed builds
-- Use the Software for personal development purposes
-- Use the Software in Roblox Studio projects
-- Connect approved AI models or integrations as intended by the Software
-- Store local copies necessary for personal use
-
-This permission is granted solely for lawful and authorized usage under the conditions described in this agreement.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You are allowed to:
+
+- Download the Mark Software from sources
+
+- Use the official versions of the Mark Software
+
+- Use the Mark Software for your own projects
+
+- Use the Mark Software with Roblox Studio
+
+- Connect approved artificial intelligence models to the Mark Software
+
+- Store the Mark Software on your computer for personal use
+
+You can only use the Mark Software if you follow the rules in this agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 4. RESTRICTIONS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Without explicit prior written permission from the Author, the User may NOT:
-
-- Copy the Software in whole or in part
-- Redistribute the Software
-- Reupload releases, builds, or files
-- Mirror the Software on external platforms
-- Share private builds or development versions
-- Modify or patch the Software
-- Attempt to bypass protections or restrictions
-- Reverse engineer any part of the Software
-- Analyze internal systems for recreation purposes
-- Recreate the functionality, architecture, or workflow of the Software
-- Create derivative works based on the Software
-- Extract source code, assets, APIs, protocols, or implementation details
-- Use automated tools to inspect or decompile the Software
-- Remove branding, credits, copyright notices, or ownership notices
-- Falsely claim authorship or ownership
-- Use portions of the Software in another project
-- Sell, sublicense, rent, lease, or commercially exploit the Software
-- Use the Software to create competing products or services
-- Publicly disclose confidential implementation details
-- Publish tutorials or guides intended to recreate protected systems
-- Share cracked, modified, or bypassed versions
-- Circumvent authentication, licensing, or verification systems
-- Use the Software in illegal, malicious, abusive, or harmful activities
-
-Any unauthorized use immediately terminates the User’s permission to use the Software.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You cannot:
+
+- Copy the Mark Software without permission
+
+- Share the Mark Software with others
+
+- Modify the Mark Software
+
+- Try to bypass the protections on the Mark Software
+
+- Reverse engineer the Mark Software
+
+- Use the Mark Software to make something similar
+
+- Sell or rent the Mark Software
+
+- Use the Mark Software for things
+
+If you do not follow these rules you cannot use the Mark Software anymore.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 5. SOURCE CODE AND INTERNAL SYSTEMS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The Software may contain private, protected, obfuscated, encrypted, or hidden systems intended to prevent unauthorized inspection or reproduction.
-
-The User acknowledges that:
-- Internal implementations are confidential
-- Source code visibility is restricted
-- Backend systems remain private property
-- Hidden logic and integrations are protected trade secrets
-
-Attempts to access hidden systems, inspect runtime behavior beyond normal usage, recreate backend communication, intercept local APIs, or expose implementation details are strictly prohibited.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Mark Software has systems that you cannot access.
+
+You must not try to:
+
+- Look at the systems of the Mark Software
+
+- Figure out how the Mark Software works
+
+- Access the source code of the Mark Software
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 6. AI AND AUTOMATION SYSTEMS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The Software may integrate with artificial intelligence systems, local language models, automation frameworks, Roblox Studio plugins, Python servers, or external tools.
-
-The User may not:
-- Replicate the AI integration architecture
-- Clone communication systems
-- Recreate plugin-server interactions
-- Copy prompt systems or workflows
-- Extract model integration methods
-- Rebuild internal automation systems based on observation or analysis
-
-All AI-related implementations are considered proprietary technology owned by the Author.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Mark Software uses intelligence and automation.
+
+You cannot:
+
+- Copy the way the Mark Software uses intelligence
+
+- Try to figure out how the Mark Softwares automation systems work
+
+- Use the Mark Softwares automation systems for your own projects
+
+All the artificial intelligence and automation systems in the Mark Software belong to Mark.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 7. DISTRIBUTION POLICY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Only the Author or explicitly authorized individuals may distribute the Software.
-
-Unauthorized distribution includes but is not limited to:
-- Uploading files to GitHub, GitLab, Discord, forums, or cloud services
-- Sharing executables privately or publicly
-- Packaging the Software with other projects
-- Including Software components inside modified builds
-- Reposting releases without permission
-
-The Author reserves the right to issue takedown requests, copyright claims, account reports, or legal actions against unauthorized distribution.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Only. People that Mark allows can distribute the Mark Software.
+
+You cannot:
+
+- Upload the Mark Software to websites or servers
+
+- Share the Mark Software with others
+
+- Include the Mark Software in your own projects
+
+Mark can take action, against people who distribute the Mark Software without permission.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 8. NO OPEN-SOURCE RIGHTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The Software is NOT licensed under MIT, GPL, Apache, BSD, or any other open-source license.
-
-Users are granted usage rights only. No rights are granted to:
-- Access source code
-- Modify internals
-- Redistribute components
-- Fork the project
-- Publicly maintain altered versions
-
-Any assumption that the Software is open-source due to partial visibility, public releases, screenshots, demonstrations, APIs, or plugin functionality is invalid.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Mark Software is not source.
+
+You do not have the right to:
+
+- Look at the source code of the Mark Software
+
+- Modify the Mark Software
+
+- Share the Mark Software with others
+
+- Make your version of the Mark Software
+
+Just because you can see some parts of the Mark Software does not mean it is source.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 9. TERMINATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The Author reserves the right to revoke access to the Software at any time, with or without notice, for any reason including but not limited to:
-- Violation of this agreement
-- Unauthorized redistribution
-- Reverse engineering attempts
-- Abuse of systems or integrations
-- Malicious activity
-- Commercial misuse
-
-Upon termination, the User must immediately:
-- Stop using the Software
-- Delete all copies in their possession
-- Remove redistributed versions
-- Cease all related activities involving the Software
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-10. DISCLAIMER OF WARRANTY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+Mark can stop you from using the Mark Software at any time.
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
-- MERCHANTABILITY
-- FITNESS FOR A PARTICULAR PURPOSE
-- NON-INFRINGEMENT
-- RELIABILITY
-- SECURITY
-- PERFORMANCE
-- AVAILABILITY
-- COMPATIBILITY
+If Mark stops you you must:
 
-The Author does not guarantee that the Software will:
-- Operate without interruption
-- Be error-free
-- Remain permanently available
-- Be compatible with all systems or updates
-- Meet all User expectations
+- Stop using the Mark Software
 
-Use of the Software is entirely at the User’s own risk.
+- Delete all copies of the Mark Software
+
+- Remove any versions of the Mark Software that you shared with others
+
+Mark can stop you if you break the rules share the Mark Software without permission or try to reverse engineer the Mark Software.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-11. LIMITATION OF LIABILITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Under no circumstances shall the Author be liable for:
-- Direct damages
-- Indirect damages
-- Lost profits
-- Data loss
-- System failures
-- Account issues
-- Security incidents
-- Project corruption
-- Business interruption
-- Consequential or incidental damages
-
-This limitation applies regardless of the cause of action, including contract, negligence, or otherwise.
+10. No Promises About The Software
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-12. ENFORCEMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Violation of this license may result in:
-- Revocation of access
-- Permanent bans from related services
-- DMCA takedown requests
-- Copyright enforcement
-- Legal claims
-- Civil liability
-- Other actions permitted under applicable law
+The Software is given to you as it is without any promises.
 
-The Author reserves all rights not explicitly granted within this agreement.
+The person who made the Software the Author does not promise that the Software will work perfectly. The Author is not responsible for any problems you might have with the Software.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-13. MODIFICATIONS TO THIS LICENSE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+To be clear the Author does not make any promises about the Software, including that it will:
 
-The Author reserves the right to modify, replace, update, or revise this license at any time without prior notice.
+- work all the time without stopping
 
-Updated versions may apply to future releases, builds, updates, or services associated with the Software.
+- be completely free of errors
+
+- always be
+
+- work with all systems or updates
+
+- meet all of your expectations
+
+If you use the Software you do so at your own risk. The Software is used by you. You are responsible for what happens.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-14. FINAL TERMS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-This agreement constitutes the entire understanding between the User and the Author regarding the Software.
-
-If any section of this agreement is determined to be invalid or unenforceable, the remaining sections shall continue in full effect.
-
-Failure by the Author to enforce any provision of this agreement shall not constitute a waiver of any rights.
-
-By accessing or using the Software, the User acknowledges full acceptance of all terms and restrictions described in this license.
+11. The Author Is Not Responsible For Damages
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-END OF LICENSE
+
+The Author will not be responsible for any damages, including:
+
+- damages that happen directly because of the Software
+
+- damages that happen indirectly because of the Software
+
+- lost profits
+
+- lost data
+
+- system failures
+
+- problems with your account
+
+- security problems
+
+- problems with your projects
+
+- interruptions to your business
+
+- kinds of damages
+
+This means that the Author will not be responsible no matter what happens.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+12. What Happens If You Break The Rules
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If you do not follow the rules of this license the Author can:
+
+- take away your access to the Software
+
+- ban you from using services
+
+- ask for the Software to be removed from the internet
+
+- enforce copyright laws
+
+- take legal action
+
+- hold you responsible for damages
+
+- take other actions that are allowed by law
+
+The Author has all rights that are not specifically given to you in this agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+13. Changes To This License
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Author can change, replace, update or revise this license at any time without telling you
+
+If the Author updates the license the new version might apply to versions of the Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+14. Final Terms
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This agreement is the understanding between you, the User and the Author, about the Software.
+
+If any part of this agreement is found to be invalid the rest of the agreement will still apply.
+
+If the Author does not enforce any part of this agreement it does not mean that the Author has given up any rights.
+
+By using the Software you agree to all of the terms and restrictions in this license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+END, OF LICENSE
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
